@@ -1,3 +1,15 @@
+# ПАМЯТКА: Модули и пакеты
+# import module_name
+# from module_name import function_name
+# import module_name as alias (псевдоним)
+#
+# Стандартные модули:
+#   import math (sqrt, ceil, floor...)
+#   import random (randint, choice...)
+#   import datetime (datetime.now()...)
+#   import os (path.exists, remove...)
+#   import sys (path...)
+
 # Домашнее задание: Модули и пакеты
 
 # 1. Импорт функций:
